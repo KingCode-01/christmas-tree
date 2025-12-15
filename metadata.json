@@ -1,0 +1,7 @@
+{
+  "name": "Holographic Christmas Tree",
+  "description": "A WebGL Christmas experience controlled by hand gestures using MediaPipe and Three.js.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
